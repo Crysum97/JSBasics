@@ -12,3 +12,5 @@ neue Elemente durch Verwendung von String-Konkatenation hinzu.
 
 Für die Benutzeroberfläche wurden Bausteine aus dem Framework [Material Design](https://getmdl.io) verwendet, welches 
 unter der [Apache 2.0 Lizenz](https://github.com/google/material-design-lite/blob/master/LICENSE) verwendet werden darf.
+
+Weiterhin wurden Spring Web und Thymeleaf verwendet um das Beispiel lokal unter Port 8080 verfügbar zu machen 
